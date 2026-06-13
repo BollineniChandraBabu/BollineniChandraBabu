@@ -19,6 +19,36 @@ Java Fullstack Developer
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BollineniChandraBabu&show_icons=true&theme=transparent&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BollineniChandraBabu&layout=compact&theme=transparent&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BollineniChandraBabu&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+## 📈 GitHub Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BollineniChandraBabu&theme=github" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BollineniChandraBabu&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BollineniChandraBabu&theme=github" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BollineniChandraBabu&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BollineniChandraBabu&theme=github&utcOffset=5.5" />
+</p>
+
+
 ### ✨ Quote
 
 > "Code. Learn. Improve. Repeat."
